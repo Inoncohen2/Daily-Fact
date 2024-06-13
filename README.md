@@ -55,3 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, please contact:
 - Inon Cohen: [inoncohen98@gmail.com](mailto:inoncohen98@gmail.com)
 - GitHub: [inoncohen98](https://github.com/inoncohen98)
+
+## Chrome Web Store
+You can also install the Daily Fact extension directly from the Chrome Web Store:
+[Daily Fact - Chrome Web Store](https://chromewebstore.google.com/detail/daily-fact/kcfhegimcclamjpokifebcgfmagepaik?hl=he&utm_source=ext_sidebar)
