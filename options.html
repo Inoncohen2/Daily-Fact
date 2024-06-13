@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Fact Settings</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <div id="container">
+    <div id="header">
+      <h1 id="settings-title">Settings</h1>
+    </div>
+    <div id="content">
+      <div class="setting">
+        <label for="lang" id="lang-label">Language:</label>
+        <select id="lang">
+          <option value="en">English</option>
+          <option value="he">עברית</option>
+          <option value="ru">Русский</option>
+          <option value="ar">العربية</option>
+          <option value="zh">中文</option>
+        </select>
+      </div>
+      <div class="setting">
+        <label for="category" id="category-label">Category:</label>
+        <select id="category"></select>
+      </div>
+      <div class="setting">
+        <label for="textColor" id="textColor-label">Text Color:</label>
+        <input type="color" id="textColor" value="#000000">
+      </div>
+      <div class="setting">
+        <label for="textSize" id="textSize-label">Text Size:</label>
+        <input type="number" id="textSize" value="16">
+      </div>
+      <button id="save">Save</button>
+      <p id="save-message" class="hidden">Settings saved!</p>
+    </div>
+  </div>
+  <script src="options.js"></script>
+</body>
+</html>
