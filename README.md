@@ -48,9 +48,6 @@ We welcome contributions to improve the Daily Fact extension! To contribute, fol
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or feedback, please contact:
 - Inon Cohen: [inoncohen98@gmail.com](mailto:inoncohen98@gmail.com)
