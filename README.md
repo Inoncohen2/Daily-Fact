@@ -51,7 +51,7 @@ We welcome contributions to improve the Daily Fact extension! To contribute, fol
 ## Contact
 For any questions or feedback, please contact:
 - Inon Cohen: [inoncohen98@gmail.com](mailto:inoncohen98@gmail.com)
-- GitHub: [inoncohen98](https://github.com/inoncohen98)
+- GitHub: [Inoncohen2](https://github.com/Inoncohen2)
 
 ## Chrome Web Store
 You can also install the Daily Fact extension directly from the Chrome Web Store:
