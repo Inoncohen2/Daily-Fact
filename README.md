@@ -12,7 +12,7 @@ Daily Fact is a Chrome extension that provides users with interesting and random
 ## Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/inoncohen98/Daily-Fact.git
+    git clone https://github.com/Inoncohen2/Daily-Fact.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by toggling the switch in the upper right corner.
