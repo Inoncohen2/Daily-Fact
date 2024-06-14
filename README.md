@@ -50,7 +50,7 @@ We welcome contributions to improve the Daily Fact extension! To contribute, fol
 
 ## Contact
 For any questions or feedback, please contact:
-- Inon Cohen: [inoncohen98@gmail.com](mailto:inoncohen98@gmail.com)
+- Inon Cohen: [E-mail](mailto:inonco93@gmail.com)
 - GitHub: [Inoncohen2](https://github.com/Inoncohen2)
 
 ## Chrome Web Store
